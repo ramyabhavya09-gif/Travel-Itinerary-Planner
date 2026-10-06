@@ -1,4 +1,4 @@
-import java.util.*;
+import java.util.Scanner;
 
 class Travel {
     String place, date, activity, mode;
